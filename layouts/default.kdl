@@ -1,8 +1,8 @@
 layout {
     pane split_direction="vertical" {
-        pane edit="~/CLionProjects/momenti-core"
+        pane edit="~/Documents/momenti-core"
         pane split_direction="horizontal" {
-            pane edit="~/CLionProjects/momenti-core" 
+            pane edit="~/Documents/momenti-core" 
             pane
             
         }
