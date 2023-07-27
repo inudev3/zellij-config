@@ -1,7 +1,7 @@
 layout {
-    pane split_direction="vertical" {
+    pane split_direction="vertical" size="60%" {
         pane edit="~/Documents/momenti-core"
-        pane split_direction="horizontal" {
+        pane split_direction="horizontal" size="40%" {
             pane edit="~/Documents/momenti-core" 
             pane
             
