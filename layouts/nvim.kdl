@@ -1,0 +1,10 @@
+layout {
+    pane edit="~/Documents/momenti-core" 
+    pane split_direction="horizontal" size="15%" {
+        pane
+    }
+   
+    pane size=1 borderless=true{
+        plugin location="zellij:status-bar"
+    }
+}
